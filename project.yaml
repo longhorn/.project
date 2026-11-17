@@ -25,7 +25,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://longhorn.io/"
 
-artwork: "https://landscape.cncf.io/logos/longhorn.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/longhorn"
 
 adopters:
   path: "https://github.com/longhorn/longhorn/blob/master/ADOPTERS.md"
